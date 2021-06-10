@@ -1,0 +1,52 @@
+body{
+    font-size: 1.2rem;
+    font-family: 'Roboto', sans-serif;
+}
+
+.fondo-nav{
+background-color: #a0dcff !important;
+background-image: linear-gradient(90deg, #365f77 0%, #80D0C7 51%);
+
+
+    /* background-color: #13151D !important; */
+}
+
+.logo{
+    width: 6rem;
+    border-radius: 50%;
+}
+
+#inicio{
+    background: url("../img/adults-analysis-banking-1451447.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron {
+    width: 100%;
+    height: 700px;
+    background: rgba(0,0,0,0.7);
+    padding: 2rem 1rem;
+    padding-top: 200px;
+    margin-bottom: 2rem;
+    border-radius: .3rem;
+    color: #fff;
+}
+
+#llamado-accion, #footer{
+    background-color: #00adb5;
+}
+
+.navbar{
+    padding: 0;
+    margin: 0;
+}
+
+.myBtn{
+    background-color:#80D0C7;
+}
+
+.myBtn:hover{
+    background-color:#365f77;
+    text-decoration-line: underline;
+}
